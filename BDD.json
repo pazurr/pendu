@@ -1,0 +1,71 @@
+{
+
+"words" : [
+    "joie", "tristesse", "colere", "peur", "surprise", "amour", "degout", "rouge", "bleu", "vert", "jaune", "noir", "blanc", 
+    "amitie", "liberte", "espoir", "fraternite", "paix", "sourire", "rire", "larmes", "douleur", "chagrin", "solitude", "espoir", 
+    "calme", "stress", "bonté", "courage", "honnetete", "amite", "reconnaissance", "respect", "compassion", "liberte", "entraide", 
+    "reconfort", "adieu", "accueil", "ouverture", "confiance", "compromis", "honorabilite", "responsabilite", "joie de vivre", 
+    "frustration", "desir", "lutte", "tristesse", "memoire", "regeneration", "passion", "devotion", "celebation", "esperance", 
+    "determination", "reussite", "echec", "opportunite", "doute", "defi", "exercice", "immensite", "fusion", "renouveau", 
+    "naissance", "autonomie", "soulagement", "experience", "relation", "grandeur", "voyage", "idee", "etoile", "chance", "progres", 
+    "perseverance", "fidelite", "honneur", "experimentation", "positivite", "apprentissage", "consequences", "inspiration", 
+    "reflexion", "dialogue", "conclusion", "progression", "proposition", "accomplissement", "metamorphose", "revelation", 
+    "instinct", "sens", "caractere", "joie de vivre", "legerete", "melancolie", "plenitude", "reconnaissance", "univers", "creation", 
+    "energie", "comprendre", "exploration", "diversite", "soutien", "harmonie", "confusion", "equilibre", "connexion", "partage", 
+    "adaptation", "reflexion", "evolution", "quete", "transformation", "confrontation", "adversite", "illusion", "creativite", 
+    "harmonie", "rester", "mystere", "remise en question", "realite", "liberation", "vision", "passion", "satisfaction", "espoir", 
+    "desespoir", "trouble", "serenite", "benediction", "generosite", "humilite", "equite", "devotion", "survie", "acceptation", 
+    "perspective", "croissance", "reflexion", "valeur", "soutien", "experience", "fierte", "victoire", "perte", "succès", "partage", 
+    "solidarite", "introspection", "exemplarite", "reconnaissance", "determination", "recherche", "evolution", "choix", "vecu", 
+    "respect", "honnêteté", "verite", "sincerite", "douceur", "espoir", "serenite", "engagement", "compassion", "lutte", "protection", 
+    "soutien", "esperance", "egalite", "liberte", "fraternite", "parole", "vision", "conviction", "conscience", "epanouissement", 
+    "energie", "quete", "revelation", "assurance", "affirmation", "legende", "reussite", "progres", "vision", "chance", "bonté", 
+    "compassion", "resilience", "soutien", "creation", "resolution", "perseverance", "adaptation", "reconnaissance", "emotion", 
+    "reflexion", "clarte", "realisation", "profondeur", "opportunite", "inspiration", "gratitude", "solidarite", "devotion", 
+    "volonte", "passion", "assurance", "noblesse", "ouverture", "confiance", "enthousiasme", "fidelite", "temerite", "integrite", 
+    "solidarite", "engagement", "conviction", "courage", "legerete", "lutte", "devotion", "reflexion", "volonte", "energie", "compassion", 
+    "determination", "soutien", "protection", "partage", "mystere", "bonté", "generosite", "sincerite", "reconnaissance", "changement", 
+    "soulagement", "protection", "evolution", "souffrance", "liberation", "tristesse", "affection", "recherche", "apprentissage", 
+    "reflexion", "assurance", "victoire", "harmonie", "reflexion", "epanouissement", "savoir", "perseverance", "fierte", "legende", 
+    "reflexion", "engagement", "partage", "assurance", "devotion", "reussite", "progres", "protection", "reconnaissance", "victoire", 
+    "perserverance", "tristesse", "changement", "motivation", "reflexion", "souffrance", "energie", "progression", "fusion", "epanouissement", 
+    "conscience", "croissance", "experience", "compassion", "reflexion", "progres", "revelation", "realisation", "soutien", "etoile", 
+    "liberte", "espoir", "courage", "satisfaction", "perte", "soulagement", "victoire", "perserverance", "epanouissement", "volonte", 
+    "reflexion", "accomplissement", "accomplir", "realisation", "protection", "energie", "croissance", "compassion", "soutien", "partage", 
+    "devotion", "volonte", "engagement", "creation", "harmonie", "defi", "determination", "vision", "perspective", "legende", "assurance", 
+    "energie", "espoir", "fraternite", "reconnaissance", "bien-etre", "changement", "partage", "harmonie", "reflexion", "soutien", 
+    "engagement", "revelation", "perspective", "reconnaissance", "transformation", "affection", "equilibre", "legerete", "force", "protection", 
+    "creation", "reflexion", "epanouissement", "passion", "amour", "paix", "evolution", "progres", "vision", "realite", "profondeur", "solidarite", 
+    "bonté", "resilience", "patience", "satisfaction", "engagement", "energie", "reussite", "reflexion", "devotion", "courage", "affection", 
+    "legerete", "partage", "compassion", "conscience", "reflexion", "perserverance", "devotion", "creation", "revelation", "passion", "amour", 
+    "paix"
+],
+    "alphabet": [
+    "A"
+    , "B"
+    , "C"
+    , "D"
+    , "E"
+    , "F"
+    , "G"
+    , "H"
+    , "I"
+    , "J"
+    , "K"
+    , "L"
+    , "M"
+    , "N"
+    , "O"
+    , "P"
+    , "Q"
+    , "R"
+    , "S"
+    , "T"
+    , "U"
+    , "V"
+    , "W"
+    , "X"
+    , "Y"
+    ,"Z"]
+  }
+  
